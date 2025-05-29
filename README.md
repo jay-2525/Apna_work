@@ -1,5 +1,5 @@
 # Apna_work
 Practice repository
 <br>
-<b>Author-Jayababu</b>
+Author-Jayababu (Apna-work)
 
